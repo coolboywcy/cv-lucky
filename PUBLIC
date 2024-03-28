@@ -1,0 +1,37 @@
+why use the PUBLIC file
+--I hope the other people know and remember the date(2024-2-22) that I publish the curriculum vitae,I can't promise that I am the first one to use this way,but I can promise maybe I am really the first one to create this way,of course you can call me original or primitive.The README.md is still effective until the end of the world.
+
+why somebody can't git clone your repository  
+--First I have to say that I am afraid and very sorry is that somebody's technology.I really want to cry.Maybe somebody have lost their job(I guess).For my real apologize.
+--Second somebody are attacking my repository.That was real,because I did't want to modify my curriculum vitae,but I found that my curriculum vitae need to change,delete something,add something and type setting.I modified it twice.At the last modified,when I logged in the github reponsitory,I found that I can't log,that was very uncommon,I tried many times,what that means,I say the first time I can't log,but the second try I can log,if you close the website,try to open it again ,it will repeat last status,the first time it can't log,but the second time it can log,of course you can say that open with cookies;another proof is that somebody are cloning my repository is the green color it raises rapidly;when I set the  repository is private and unarchive this repository,I modified my curriculum vitae and git push,set the repository is archive and public,when I close the website,I try to click,I found I can log it just one time.The speed is 2MB/s when I git clone.
+--Third I think there is a very good news for the fired employee,you can say "boss ,I think I need the job again.because it's not my fault,you see":of course ,it's my fault.I set the repository is private and unarchieve it when I modify the curriculum vitae ,the time is just about 20 minutes every time(twice).so we were in the wrong time,I can't tell you what time I modified it,so the time is just when you can't git clone it.and you boss will say"ok ,come back......".To avoid you are fired again[,I decide to use this way just one more time,maybe more times.So sometime it will up and down,but don't worry,it will be there untill forever(abandoned).]Keep the repository public and if I want to modify or add something,I just unarchive it,after I git push it,just archive it,however what I really worry about is that maybe somebody will steal my token,although it lies in somewhere,so I have to change it at regular intervals.
+--Forth you can download it,just don't use the way of the git clone.
+
+why design this pattern to post your curriculum vitae
+--~~~~$                  (seduce)
+--<-#<-                  (penetrate)
+--00001                  (pick one)
+--><><-                  (filter)
+---[*]                   (property)
+--*>$#@                  (data lapse)
+--......                 (many other reasons,even if I can't think it,for example modify my curriculum vitae)
+
+do you hope there are more people choose this way to post their curriculum vitae
+--Why not
+
+why don't put it in your package
+--The cost is not the time or trust.
+
+why add Jade.tar.gz.enc file
+--Shrink the scope of my answer :You need to understand what's third passwd,then you need to find its value of ASCLL comparision form,we call int A=its value of ASCLL comparison form,int B=A+23;int C=A+5;right here,you need to find their control charaters according the ASCLL comparison form separately,so we call B1=Reflection(B),C1=Reflection(C),then you need the role name of the Jade Goddess of Mercy,we mark it rolename,but the rolename need to change capital,then combine the B1 and C1,but the ROLENAME in the middle,so the finally real passwd is B1ROLENAMEC1.For example,if the third passwd is X and the role name of the Jade Goddess of Mercy is tiejun,then the real passwd is oTIEJUN].hurry up!
+
+why somebody can't open your .cv.tar.gz.enc file
+--First(wait for a moment,please give me some minutes to cry or laugh,please,please,please forgive me doing that,I just can't help doing,I am so sorry,I hope the god can spare my life,make my soul to get salvation)you must understand who is somebody that is very important.The somebody is boss,boss's employee(engineer or hr),common visitors,real common visitors and hackers.The boss maybe don't understand the technology,but he will let the hr to inform the engineer to open it indirectly or let the engineer to open it directly or open it by himself,but nomatter what happened,you must hear the boss said "we are family",however I never believe it,for a job,so we have to call these somebody just like boss said "we are family" for good guys,until someday we are fired we can call them real bad guys from our heart's deep voices.If the good guys open your .cv.tar.gz.enc,but did't employ you,what that means your data lapse,and somebody will get your curriculum vitae,but don't worray,the curriculum vitae maybe be not the best,do you remember that I modified it twice,so somebody will be curious about you just look at your outdated curriculum vitae,so we call them common visitors,and the good guys change bad guys.However somebody find my repository just look for something by accident or the system recommend it,they are innocent,so we call them real common visitors,if they did't look this article,they must be good guys.Howerver,if they see this article and try to crack it,especially succeed,so we have to call them hacker,they prefer to be called bad guys or good guys.
+--Second I give the good guys some very important things.A map|A key|A method.If the good guys can't use them correctly,then some of good guys who I give them some very important things become bad guys.
+--Third I never said if somebody can open mine .cv.tar.gz.enc is just good guy.
+
+why delete commit log
+--safe&clear&best
+
+why public the second passwd "XZJQ"
+--Verify in advance.
