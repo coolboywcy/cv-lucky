@@ -1,0 +1,60 @@
+why use the PUBLIC file
+--I hope the other people know and remember the date(2024-2-22) that I publish the curriculum vitae,I can't promise that I am the first one to use this way,but I can promise maybe I am really the first one to create this way,of course you can call me original or primitive.The README.md is still effective until the end of the world.
+
+why somebody can't git clone your repository  
+--First I have to say that I am afraid and very sorry is that somebody's technology.I really want to cry.Maybe somebody have lost their job(I guess).For my real apologize.
+--Second somebody are attacking my repository.That was real,because I did't want to modify my curriculum vitae,but I found that my curriculum vitae need to change,delete something,add something and type setting.I modified it third.At the last modified,when I logged in the github repository,I found that I can't log,that was very uncommon,I tried many times,what that means,I say the first time I can't log,but the second try I can log,if you close the website,try to open it again,it will repeat last status,the first time it can't log,but the second time it can log,of course you can say that open with cookies;another proof is that somebody are cloning my repository is the green color it raises rapidly;when I set the  repository is private and unarchive the repository,I modified my curriculum vitae and git push,set the repository is archive and public,when I close the website,I try to click,I found I can log it just one time.The speed is 2MB/s when I git clone it.
+--Third I think there is a very good news for the fired employee,you can say "boss ,I think I need the job again.because it's not my fault,you see":of course,it's my fault.I set the repository is private(sixth) and unarchieve it when I modify the curriculum vitae,the time is just about 20 minutes every time(third),so we were in the wrong time,I can't tell you what time I modified it,so the time is just when you can't git clone it,and you boss will say"ok ,come back......".To avoid you are fired again[,I decide to use this way just one more time,maybe more times,so sometime it will up and down,but don't worry,it will be there untill forever(abandoned).]Keep the repository public and if I want to modify it or add something,I just unarchive it,after I git push it,just archive it,however what I really worry about is that maybe somebody will steal my token,although it lies in somewhere,so I have to change it at regular intervals.
+--Forth you can download it,just don't take the way of the git clone.
+
+why design this pattern to post your curriculum vitae
+--~~~~$                  (seduce)
+--<-#<-                  (penetrate)
+--00001                  (pick one)
+--><><-                  (filter)
+---[*]                   (property)
+--*>$#@                  (data lapse)
+--......                 (many other reasons,even if I can't think it,for example modify my curriculum vitae)
+
+do you hope there are more people choose this way to post their curriculum vitae
+--Why not
+
+why don't put it in your package
+--The cost is not the time or trust.
+
+why add Jade.tar.gz.enc file
+--Shrink the scope of my answer :You need to understand what's third passwd,then you need to find its value of ASCLL comparision form,we call int A=its value of ASCLL comparison form,int B=A+23;int C=A+5;right here,you need to find their control charaters according the ASCLL comparison form separately,so we call B1=Reflection(B),C1=Reflection(C),then you need the role name of the Jade Goddess of Mercy,we mark it rolename,but the rolename need to change capital,then combine the B1 and C1,but the ROLENAME in the middle,so the finally real passwd is B1ROLENAMEC1.For example,if the third passwd is X and the role name of the Jade Goddess of Mercy is tiejun,then the real passwd is oTIEJUN].hurry up!
+
+why somebody can't open your .cv.tar.gz.enc file
+--First(wait for a moment,please give me some minutes to cry or laugh,please,please,please forgive me doing that,I just can't help doing,I am so sorry,I hope the god can spare my life,make my soul to get salvation)you must understand who is somebody that is very important.The somebody is boss,boss's employee(engineer or hr),common visitors,real common visitors and hackers.The boss maybe don't understand the technology,but he will let the hr to inform the engineer to open it indirectly or let the engineer to open it directly or open it by himself,but nomatter what happened,you must hear the boss said "we are family",however I never believe it,for a job,we have to call these somebody just like boss said "we are family" for good guys,until someday we are fired we can call them real bad guys from our heart's deep voices.If the good guys open your .cv.tar.gz.enc,but did't employ you,what that means your data lapse,and somebody will get your curriculum vitae,but don't worray,the curriculum vitae maybe be not the best,do you remember that I modified it third,so somebody will be curious about you just look at your outdated curriculum vitae,so we call them common visitors,and the good guys change bad guys.However somebody find my repository just look for something by accident or the system recommend it,they are innocent,so we call them real common visitors,if they did't look this article,they must be good guys.Howerver,if they see this article and try to crack it,especially succeed,so we have to call them hacker,they prefer to be called bad guys or good guys.
+--Second I give the good guys some very important things.A map|A key|A method.If the good guys can't use them correctly,then some of good guys who I give them some very important things become bad guys.
+--Third I never said if somebody can open mine .cv.tar.gz.enc is just good guy.
+
+why delete commit log
+--Safe&Clear&Best
+
+why public the second passwd "XZJQ"
+--Verify in advance.
+
+do you have interesting things about your companies
+--First company,my leader told me "the client will come,you need to take care of her carefully",I said "ok",I took her to a restaurant named Lanzhou beef noodle soup,and I ordered  noodles of beef about 2.28$,and she ordered noodles of tomatos with egg about 1.85$,and she said "Dutch treatment",I said "let me pay",but she said "Dutch treatment" strongly,I said "ok",after we come back to the company,my workmates asked me "where were you going and what were you eating",I repeated the situation,soon or later,my leader call me "don't do that,you take her to have a good dinner after work,we will pay the bill,the company will pay for you",I said "ok",after work I took her to a restaurant named hot duck,I queried her "what do you want",she said "that depends on you" and I ordered the head of the hot duck,fired fish,eggs of duck,chicken claw,poached spicy slices of pork,fried shredded potatoes,scrambled eggs,a bowl of seaweed soup,two bowls of rice,I think that's all,I can't remember if there are more,but the cost is just about 37.14$,when I ordered she said "don't order anymore,that is too much,is just you and me,too waste",I answered "don't worry,our company will pay for the bill,let's do it",maybe I should listen for her,actually this was the first time that I came here to have a meal,soon or later my leader came back,I asked my leader "when will pay my bill",my leader said"You did't apply it at some software in advance,so we can't afford you,the next time you need to apply it at some software in advance,the company will pay for you,did you remember",I said "remembered",but I thought "what's the next time".For a while,I felt so sad is not the beautiful client has been married or why I did't listen to her,so the first company own me about 37.14$.(travels&parties$holidays)
+--Second company,after I have been working for three months later,my leader told me "You need to work overtime,but no money",I said "ok",I never challenge it before 18:00 to leave my work,so I tried my best to leave my work at 18:00 precisely,because I leave my work is after 18:30 as usual.Of course there was a time that I left my company is very late,I remembered it very clearly,I left my company was nearly about 19:30,because it rained on that day,I have to wait the car at the bottom of my company just like many other workmates.I start to work before at 9:30 as usual,so the second company own me about half an hour multiply three months.(In other words,our company need to serve me with the time,but no money.)
+
+how to open all boxes
+--introduce.pdf-[key0]->.cv.tar.gz.enc=cv.pdf-<key1>->.process.tar.gz.enc=process.pdf-(key2)->.result.tar.gz.enc=result.pdf-{key3}|->.j.tar.gz.enc=jade-key4->.case.tar.gz.enc=case.sh
+--PUBLIC-keyX->Jade.tar.gz.enc=jade.pdf-key5->commitment.pdf=!&?
+
+why choose the date(2024-4-26) to archive your repository
+--A dream.
+
+do you have some words to tell somebody
+--I am very dangerous,you can refer to the movie(Art of the Devil 2:Long khong) of Tailand,I am same with the woman teacher,so if you don't want to employ me,please don't trouble me,otherwise you need to take the result of ...... ,and if you are the passerby,please go by a roundabout route,this is not suitable for you,otherwise you need to take the result of ......I am coming just like you are staring,the only difference is I am just watching you,turn around,do you see me!My hand is just in your chair,please say sorry for me,I am out of my mind,maybe we will forgive you,but it's too late,somebody do the bad thing,they must be punished.
+
+what's the punishment
+--Listen to The Path of the Wind by Joe Hisaishi,this punishenmt is only effective for the passerby by accident,right here you need to leave,have a good night!My word is no mercy for the bad people! __|_(decapitate)
+
+do you have friends
+--Yes.
+
+what do you want be
+--To be myself.
